@@ -1,0 +1,10 @@
+C:\Users\Juan\OneDrive\ENGLISH  0900\C# class\Lab10\Student Data\Student Data\bin\Debug\Student Data.exe.config
+C:\Users\Juan\OneDrive\ENGLISH  0900\C# class\Lab10\Student Data\Student Data\bin\Debug\Student Data.exe
+C:\Users\Juan\OneDrive\ENGLISH  0900\C# class\Lab10\Student Data\Student Data\bin\Debug\Student Data.pdb
+C:\Users\Juan\OneDrive\ENGLISH  0900\C# class\Lab10\Student Data\Student Data\obj\Debug\Student Data.csprojAssemblyReference.cache
+C:\Users\Juan\OneDrive\ENGLISH  0900\C# class\Lab10\Student Data\Student Data\obj\Debug\Student_Data.Form1.resources
+C:\Users\Juan\OneDrive\ENGLISH  0900\C# class\Lab10\Student Data\Student Data\obj\Debug\Student_Data.Properties.Resources.resources
+C:\Users\Juan\OneDrive\ENGLISH  0900\C# class\Lab10\Student Data\Student Data\obj\Debug\Student Data.csproj.GenerateResource.cache
+C:\Users\Juan\OneDrive\ENGLISH  0900\C# class\Lab10\Student Data\Student Data\obj\Debug\Student Data.csproj.CoreCompileInputs.cache
+C:\Users\Juan\OneDrive\ENGLISH  0900\C# class\Lab10\Student Data\Student Data\obj\Debug\Student Data.exe
+C:\Users\Juan\OneDrive\ENGLISH  0900\C# class\Lab10\Student Data\Student Data\obj\Debug\Student Data.pdb
